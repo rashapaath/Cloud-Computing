@@ -1,15 +1,16 @@
 <table>
   <tr>
-    <td align="left">
-      <img src="fathima-rasha.jpg" alt="Fathima Rasha" width="100" height="100">
+    <td width="50%" align="left">
+      <img src="rasha.jpeg" alt="Fathima Rasha" width="90" height="90">
     </td>
-    <td align="right">
-      <img src="aws-sbg-logo.png" alt="AWS Student Builder Groups" width="100" height="100">
+    <td width="50%" align="right">
+      <img src="awssbglogo.jpeg" alt="AWS Student Builder Groups" width="90" height="90">
     </td>
   </tr>
 </table>
 
 # Everything You Need to Know About AWS Student Builder Groups (AWS SBG)
+
 
 Myself, **Fathima Rasha** ([LinkedIn](https://www.linkedin.com/in/fathima-rasha-2a35b5319)). I founded the first AWS Cloud Club from Kerala and became the first and only Cloud Captain from Kerala, so it is my responsibility to invite and help other students build SBGs in their colleges too.
 
