@@ -122,7 +122,7 @@ The goal is simple:
 
 ## Final Thoughts
 
-I hope I covered most of the things you wanted to know about **AWS Student Builder Groups**.
+I had covered everything about **AWS Student Builder Groups**.
 
 If you have any questions, feel free to reach out. I'm always happy to help.
 
@@ -134,7 +134,6 @@ Join the AWS ecosystem—I truly believe it can completely change you and your c
 
 ---
 
-## Connect With Me
 
 For any doubts, you can reach out to me:
 [LinkedIn](https://www.linkedin.com/in/fathima-rasha-2a35b5319)
