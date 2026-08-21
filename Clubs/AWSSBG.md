@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="fathima-rasha.jpg" alt="Fathima Rasha" width="120" align="left">
-  <img src="aws-sbg-logo.png" alt="AWS Student Builder Groups" width="180" align="right">
+  <img src="rasha.jpeg" alt="Fathima Rasha" width="120" align="left">
+  <img src="awssbglogo.jpeg" alt="AWS Student Builder Groups" width="180" align="right">
 </p>
 
 # Everything You Need to Know About AWS Student Builder Groups (AWS SBG)
