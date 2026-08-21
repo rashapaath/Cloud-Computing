@@ -12,7 +12,7 @@
 # Everything You Need to Know About AWS Student Builder Groups (AWS SBG)
 
 
-Myself, **Fathima Rasha** ([LinkedIn](https://www.linkedin.com/in/fathima-rasha-2a35b5319)). I founded the first AWS Cloud Club from Kerala and became the first and only Cloud Captain from Kerala, so it is my responsibility to invite and help other students build SBGs in their colleges too.
+Myself, **Fathima Rasha** ([LinkedIn](https://www.linkedin.com/in/fathima-rasha-2a35b5319)). I founded the first AWS Cloud Club from Kerala and became the first and only Cloud Captain from Kerala, so it is my responsibility to invite and help other students to build SBGs in their colleges too.
 
 Formerly known as **AWS Cloud Clubs**, AWS SBG has now been rebranded as **AWS Student Builder Groups**. Its focus has also become broader, covering areas such as **AI, Cloud, and Development (including Full-Stack Development)**.
 
