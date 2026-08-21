@@ -78,7 +78,7 @@ Make sure you follow along with them.
 
 Once you get selected, the first thing you should do is **build a strong core team**.
 
-This is really important because some people may help during the initial phase, but later they may not be able to continue supporting your AWS SBG.
+This is really important because some may help during the initial phase, but later they may not be able to continue supporting your AWS SBG.
 
 So, make sure you choose people who are willing to stay with your SBG throughout.
 
