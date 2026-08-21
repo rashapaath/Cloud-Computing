@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%" align="left">
-      <img src="rasha.jpeg" alt="Fathima Rasha" width="90" height="90">
+      <img src="rasha.jpeg" alt="Fathima Rasha" width="88" height="90">
     </td>
     <td width="50%" align="right">
       <img src="awssbglogo.jpeg" alt="AWS Student Builder Groups" width="90" height="90">
